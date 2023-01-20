@@ -1,7 +1,8 @@
 ## Hi there, I am Myckland Matthew 👋
-- 🔭 I’m currently working on web development skills while finishing my studies at Simon Fraser University
-- 🌱 I’m currently sharpening my skills in Web Development, Databases and Data Science related topics
-
+####  🔭 I’m currently working on web development skills while finishing my studies at Simon Fraser University
+####  🌱 I’m currently sharpening my skills in Web Development, Databases and Data Science related topics
+#### 💬 Ask me about my favorite snacks!
+####  📫 How to reach me: myckland_matthew@sfu.ca
 ### Languages
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
