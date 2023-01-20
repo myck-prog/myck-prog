@@ -1,4 +1,4 @@
-## Hi there, I am Myckland Matthew 👋
+## Hi there, It's Myckland here 👋
 ####  🔭 I’m currently working on web development skills while finishing my studies at Simon Fraser University
 ####  🌱 I’m currently sharpening my skills in Web Development, Databases and Data Science related topics
 #### 💬 Ask me about my favorite snacks!
