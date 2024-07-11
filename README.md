@@ -1,6 +1,6 @@
 ## Hi there, It's Myckland here 👋
-####  🔭 I’m currently working on web development skills while finishing my studies at Simon Fraser University
-####  🌱 I’m currently sharpening my skills in Web Development and Data Science related topics
+####  🔭 I’m a recent Statistics Graduate from Simon Fraser University with a focus on Applied Statistics and Data Science
+####  🌱 Currently building analytics solutions and applying statistics to help improving the world
 #### 💬 Ask me about my favorite snacks!
 ####  📫 How to reach me: myckland_matthew@sfu.ca
 ### Languages
