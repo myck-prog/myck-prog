@@ -2,7 +2,7 @@
 ####  🔭 I’m a recent Statistics Graduate from Simon Fraser University with a focus on Applied Statistics and Data Science
 ####  🌱 Currently building analytics solutions and applying statistics to help improving the world
 #### 💬 Ask me about my favorite snacks!
-####  📫 How to reach me: myckland_matthew@sfu.ca
+####  📫 How to reach me: myckland.matthew@gmail.com
 ### Languages
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)
